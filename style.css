@@ -62,7 +62,7 @@ body {
 .landing {
   background:
     linear-gradient(to bottom, rgba(21,15,43,.88) 0%, rgba(21,15,43,.45) 45%, rgba(21,15,43,0) 75%),
-    url("images/squad.png") center bottom / cover no-repeat,
+    url("squad.png") center bottom / cover no-repeat,
     var(--night);
 }
 
